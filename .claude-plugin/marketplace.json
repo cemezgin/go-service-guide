@@ -19,7 +19,7 @@
         "./skills/testing",
         "./skills/observability"
       ],
-      "description": "Comprehensive Go service coding standards covering architecture, style, patterns, concurrency, testing, and observability.",
+      "description": "Comprehensive Go service coding standards covering architecture, style, patterns, concurrency, testing, and observability."
     }
   ]
 }
