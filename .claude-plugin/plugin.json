@@ -1,0 +1,8 @@
+{
+  "name": "go-service-guide",
+  "description": "Comprehensive Go service development standards covering architecture, style, patterns, concurrency, testing, and observability.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cemezgin"
+  }
+}
