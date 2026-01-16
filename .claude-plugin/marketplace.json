@@ -1,0 +1,14 @@
+{
+  "name": "go-service-guide",
+  "owner": {
+    "name": "cemezgin"
+  },
+  "plugins": [
+    {
+      "name": "go-service-guide",
+      "source": ".",
+      "description": "Comprehensive Go service development standards covering architecture, style, patterns, concurrency, testing, and observability.",
+      "version": "1.0.0"
+    }
+  ]
+}
