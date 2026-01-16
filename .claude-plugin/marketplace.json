@@ -1,17 +1,25 @@
 {
   "name": "go-service-guide",
   "owner": {
-    "name": "cemezgin"
+    "name": "Cem Ezgin"
+  },
+  "metadata": {
+    "description": "Go service coding standards",
+    "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "go-service-guide",
-      "source": {
-        "source": "github",
-        "repo": "cemezgin/go-service-guide"
-      },
-      "description": "Comprehensive Go service development standards covering architecture, style, patterns, concurrency, testing, and observability.",
-      "version": "1.0.0"
+      "name": "coding-standards",
+      "source": "./",
+      "skills": [
+        "./skills/architecture",
+        "./skills/concurrency",
+        "./skills/go-style",
+        "./skills/patterns",
+        "./skills/testing",
+        "./skills/observability"
+      ],
+      "description": "Comprehensive Go service coding standards covering architecture, style, patterns, concurrency, testing, and observability.",
     }
   ]
 }
