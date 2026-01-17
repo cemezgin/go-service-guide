@@ -5,11 +5,11 @@
   },
   "metadata": {
     "description": "Go service coding standards",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
-      "name": "coding-standards",
+      "name": "go-service-guide",
       "source": "./",
       "skills": [
         "./skills/architecture",

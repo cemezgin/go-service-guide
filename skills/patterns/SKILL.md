@@ -1,6 +1,7 @@
 ---
 name: patterns
 description: Project patterns including functional options, must pattern, caching decorator, error handling, configuration, and HTTP clients. Use when implementing common patterns in the codebase.
+userInvokable: true
 ---
 
 # Project Patterns

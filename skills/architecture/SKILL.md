@@ -1,6 +1,7 @@
 ---
 name: architecture
 description: Clean/hexagonal architecture rules, folder structure, interface ownership, and dependency direction. Use when creating new packages, services, or understanding codebase structure.
+userInvokable: true
 ---
 
 # Clean Architecture

@@ -1,6 +1,7 @@
 ---
 name: testing
 description: Testing patterns including table-driven tests, mock setup, and coverage requirements. Use when writing tests or setting up test infrastructure.
+userInvokable: true
 ---
 
 # Testing

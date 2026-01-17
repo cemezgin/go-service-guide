@@ -1,6 +1,7 @@
 ---
 name: observability
 description: Tracing with OpenTelemetry and structured logging with slog. Use when adding observability to services, handlers, or debugging production issues.
+userInvokable: true
 ---
 
 # Observability

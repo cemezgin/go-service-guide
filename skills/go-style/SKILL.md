@@ -1,6 +1,7 @@
 ---
 name: go-style
 description: Uber Go style guide rules for guidelines, performance, and code style. Use when writing or reviewing Go code for style compliance.
+userInvokable: true
 ---
 
 # Go Style (Uber Guide)

@@ -1,6 +1,7 @@
 ---
 name: concurrency
 description: Goroutine ownership, errgroup patterns, worker pools, and graceful shutdown. Use when writing concurrent code or parallel request handling.
+userInvokable: true
 ---
 
 # Concurrency
